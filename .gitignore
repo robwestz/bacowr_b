@@ -1,0 +1,11 @@
+articles/
+no_commit/
+.cache/
+.tmp/
+__pycache__/
+*.pyc
+.pytest_cache/
+preflight_db/
+.claude/
+.cursor/
+text-output/

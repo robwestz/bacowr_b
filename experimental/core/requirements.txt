@@ -1,0 +1,8 @@
+# BACOWR v6.2 runtime dependencies
+aiohttp
+beautifulsoup4
+numpy
+sentence-transformers
+
+# Test/verification dependencies
+pytest

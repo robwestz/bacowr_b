@@ -1,0 +1,40 @@
+{
+  "kund": "haxan.se",
+  "exported_at": "2026-02-20T14:22:33.461269",
+  "total_jobs": 3,
+  "jobs": [
+    {
+      "publisher_domain": "medialvagledning.com",
+      "target_url": "https://haxan.se/",
+      "anchor_text": "haxan",
+      "publisher_status": "missing",
+      "target_status": {
+        "publisher": "stale",
+        "target": "pending",
+        "serp": "missing"
+      }
+    },
+    {
+      "publisher_domain": "focusera.se",
+      "target_url": "https://haxan.se/diabetes/blodsocker",
+      "anchor_text": "blodsocker",
+      "publisher_status": "missing",
+      "target_status": {
+        "publisher": "stale",
+        "target": "pending",
+        "serp": "missing"
+      }
+    },
+    {
+      "publisher_domain": "villanytt.se",
+      "target_url": "https://haxan.se/produkter",
+      "anchor_text": "naturprodukter",
+      "publisher_status": "missing",
+      "target_status": {
+        "publisher": "stale",
+        "target": "pending",
+        "serp": "missing"
+      }
+    }
+  ]
+}
