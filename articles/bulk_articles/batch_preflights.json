@@ -1,0 +1,662 @@
+[
+  {
+    "job_number": 1,
+    "publisher_domain": "sek-converter.se",
+    "target_url": "https://www.kleer.se/lonesystem/",
+    "anchor_text": "lönesystem",
+    "publisher_topics": [
+      "converter",
+      "pengar",
+      "finans"
+    ],
+    "target_title": "Lönesystem + lönebyrå till ett fast månadspris | Kleer Payroll",
+    "target_meta": "Med lönesystem och lönehantering från Kleer får du marknadens skönaste löneupplevelse – allt till ett fast månadspris.",
+    "bridge_distance": 0.2989140748977661,
+    "bridge_category": "unrelated",
+    "trust_link_topics": [
+      "converter",
+      "pengar",
+      "finans",
+      "statistik",
+      "forskning"
+    ],
+    "language": "en"
+  },
+  {
+    "job_number": 2,
+    "publisher_domain": "makeachange.se",
+    "target_url": "https://www.rusta.com/se/sv/hem--inredning/mattor/",
+    "anchor_text": "Mattor",
+    "publisher_topics": [
+      "makeachange"
+    ],
+    "target_title": "Mattor | Rusta.com",
+    "target_meta": "Upptäck mattor för hela hemmet hos Rusta. Välj bland olika material, storlekar och färger – alltid till riktigt bra priser.",
+    "bridge_distance": 0.2560126483440399,
+    "bridge_category": "unrelated",
+    "trust_link_topics": [
+      "makeachange",
+      "statistik",
+      "forskning"
+    ],
+    "language": "en"
+  },
+  {
+    "job_number": 3,
+    "publisher_domain": "creatables.se",
+    "target_url": "https://www.rusta.com/sv-se/hem-och-inredning/belysning",
+    "anchor_text": "Belysning",
+    "publisher_topics": [
+      "creatables"
+    ],
+    "target_title": "Belysning | Rusta.com",
+    "target_meta": "Satsa på minst fem ljuspunkter i varje rum när du väljer belysning. På Rusta hittar du bordslampor, tak- och fönsterlampor och mängder av dekorationsbelysning.\n\nDessutom har vi ett brett utbud av ljuskällor, lampfötter och lampskärmar för dig som vill sätta ihop din egen belysningslösning. Med ljusslingor skapar du en mysig och lekfull känsla hemma....",
+    "bridge_distance": 0.06605920195579529,
+    "bridge_category": "unrelated",
+    "trust_link_topics": [
+      "creatables",
+      "statistik",
+      "forskning"
+    ],
+    "language": "en"
+  },
+  {
+    "job_number": 4,
+    "publisher_domain": "coresys.se",
+    "target_url": "https://www.startmotor.se/kategori/b%C3%A5tbatteri",
+    "anchor_text": "båtbatteri",
+    "publisher_topics": [
+      "coresys"
+    ],
+    "target_title": "Köp båtbatteri & marinbatteri online | Se pris & beställ med snabb leverans! | Start & Generator Specialisten",
+    "target_meta": "Hitta rätt båtbatteri hos Startmotor. Vi erbjuder ett brett utbud av marinbatterier för att hålla din båt toppskick. Beställ idag för snabb leverans.",
+    "bridge_distance": 0.0,
+    "bridge_category": "unrelated",
+    "trust_link_topics": [
+      "coresys",
+      "statistik",
+      "forskning"
+    ],
+    "language": "en"
+  },
+  {
+    "job_number": 5,
+    "publisher_domain": "serviceteknikerkarlstad.se",
+    "target_url": "https://www.startmotor.se/fordon/reservdelar-bat/volvo-penta",
+    "anchor_text": "volvo penta reservdelar",
+    "publisher_topics": [
+      "teknik",
+      "it",
+      "servicetekniker",
+      "karlstad"
+    ],
+    "target_title": "Volvo Penta Reservdelar båtmotor - Start & Generator | Start & Generator Specialisten",
+    "target_meta": "Upptäck vårt utbud av Volvo Penta reservdelar. Hitta rätt startmotor eller generator till din Volvo Penta med vårt smidiga modellsök för reservdelar.",
+    "bridge_distance": 0.180244579911232,
+    "bridge_category": "unrelated",
+    "trust_link_topics": [
+      "teknik",
+      "it",
+      "servicetekniker",
+      "statistik",
+      "forskning"
+    ],
+    "language": "en"
+  },
+  {
+    "job_number": 6,
+    "publisher_domain": "houseofpadel.se",
+    "target_url": "https://massagestockholm.se/",
+    "anchor_text": "Massage Stockholm",
+    "publisher_topics": [
+      "houseofpadel"
+    ],
+    "target_title": "",
+    "target_meta": "",
+    "bridge_distance": 0.45119422674179077,
+    "bridge_category": "distant",
+    "trust_link_topics": [
+      "houseofpadel",
+      "statistik",
+      "forskning"
+    ],
+    "language": "en"
+  },
+  {
+    "job_number": 7,
+    "publisher_domain": "14karat.se",
+    "target_url": "https://supernormal.health/se/",
+    "anchor_text": "Digital vård",
+    "publisher_topics": [
+      "karat"
+    ],
+    "target_title": "Supernormal™ – Supernormal.Health",
+    "target_meta": "Supernormal erbjuder vetenskapsbaserade tjänster och produkter för effektiv och hållbar viktnedgång och hälsa. Med medicinsk behandling, personlig coaching och kostrådgivning hjälper vi dig nå dina hälsomål tryggt och långsiktigt.",
+    "bridge_distance": 0.0,
+    "bridge_category": "unrelated",
+    "trust_link_topics": [
+      "karat",
+      "statistik",
+      "forskning"
+    ],
+    "language": "en"
+  },
+  {
+    "job_number": 8,
+    "publisher_domain": "bygg-appen.se",
+    "target_url": "https://swedenlongstay.se/sv/foretagsbostader",
+    "anchor_text": "Företagsbostäder",
+    "publisher_topics": [
+      "byggande",
+      "renovering",
+      "bygg",
+      "appen"
+    ],
+    "target_title": "Sweden Longstay - Flexibla företagsbostäder & Longstay i...",
+    "target_meta": "Upptäck flexibla och prisvärda företagsbostäder för longstay i Sverige. Perfekt för företagsprojekt och långtidsboende med skräddarsydda lösningar för...",
+    "bridge_distance": 0.22956126928329468,
+    "bridge_category": "unrelated",
+    "trust_link_topics": [
+      "byggande",
+      "renovering",
+      "bygg",
+      "statistik",
+      "forskning"
+    ],
+    "language": "en"
+  },
+  {
+    "job_number": 9,
+    "publisher_domain": "saralundberg.se",
+    "target_url": "https://swedenlongstay.se/sv/foretagsbostader/stockholm/",
+    "anchor_text": "Företagsbostäder stockholm",
+    "publisher_topics": [
+      "saralundberg"
+    ],
+    "target_title": "Sweden Longstay - Företagsbostäder i Stockholm",
+    "target_meta": "Företagsbostäder i Stockholm. Vi erbjuder prisvärda och flexibla boendelösningar som anpassas efter era behov.",
+    "bridge_distance": 0.3166477680206299,
+    "bridge_category": "distant",
+    "trust_link_topics": [
+      "saralundberg",
+      "statistik",
+      "forskning"
+    ],
+    "language": "en"
+  },
+  {
+    "job_number": 10,
+    "publisher_domain": "bygg-appen.se",
+    "target_url": "https://sakraror.se/vara-tjanster/allman-service-vvs/vvs-i-taby/",
+    "anchor_text": "VVS Täby",
+    "publisher_topics": [
+      "byggande",
+      "renovering",
+      "bygg",
+      "appen"
+    ],
+    "target_title": "Rörmokare Täby | Säkra Rör & Bygg | Fast pris",
+    "target_meta": "Auktoriserade Rörmokare Täby för säker VVS | Kontakta Säkra Rör & Bygg för professionella installationer | Gratis offert inom 24 timmar!",
+    "bridge_distance": 0.29096460342407227,
+    "bridge_category": "unrelated",
+    "trust_link_topics": [
+      "byggande",
+      "renovering",
+      "bygg",
+      "statistik",
+      "forskning"
+    ],
+    "language": "en"
+  },
+  {
+    "job_number": 11,
+    "publisher_domain": "sollentunaextra.se",
+    "target_url": "https://sakraror.se/",
+    "anchor_text": "Rörmokare i Sollentuna",
+    "publisher_topics": [
+      "sollentunaextra",
+      "sollentuna",
+      "extra",
+      "lokala",
+      "evenemang",
+      "guider"
+    ],
+    "target_title": "Rörmokare i Stockholm | Säkra Rör | Reco Top 10 i Sverige",
+    "target_meta": "Letar du efter en erfaren rörmokare i Stockholm? Upptäck varför vi är en av Sveriges Top 10 rörmokare enligt Reco.",
+    "bridge_distance": 0.4627392888069153,
+    "bridge_category": "distant",
+    "trust_link_topics": [
+      "sollentunaextra",
+      "sollentuna",
+      "extra",
+      "statistik",
+      "forskning"
+    ],
+    "language": "en"
+  },
+  {
+    "job_number": 12,
+    "publisher_domain": "coresys.se",
+    "target_url": "https://tiotak.se",
+    "anchor_text": "takläggare",
+    "publisher_topics": [
+      "coresys"
+    ],
+    "target_title": "Din Takläggare i mellan och södra Sverige | TioTak AB",
+    "target_meta": "TioTak erbjuder professionell takläggning i Stockholm, mellan- och södra sverige. Takläggare för maskinhall, ekonomibyggnad, och industrihall.",
+    "bridge_distance": 0.1610841304063797,
+    "bridge_category": "unrelated",
+    "trust_link_topics": [
+      "coresys",
+      "statistik",
+      "forskning"
+    ],
+    "language": "en"
+  },
+  {
+    "job_number": 13,
+    "publisher_domain": "keynote.se",
+    "target_url": "https://tiotak.se/byta-tak-maskinhall/",
+    "anchor_text": "byta tak maskinhall",
+    "publisher_topics": [
+      "keynote"
+    ],
+    "target_title": "Byta tak maskinhall | TioTak AB",
+    "target_meta": "Taket på en maskinhall är en viktig del av byggnaden som ger skydd mot väder och vind och håller maskinerna och utrustningen inrymd säkert.",
+    "bridge_distance": 0.05318551883101463,
+    "bridge_category": "unrelated",
+    "trust_link_topics": [
+      "keynote",
+      "statistik",
+      "forskning"
+    ],
+    "language": "en"
+  },
+  {
+    "job_number": 14,
+    "publisher_domain": "hot-maillogginse.se",
+    "target_url": "https://tryggbil.se/",
+    "anchor_text": "bilverkstad tyresö",
+    "publisher_topics": [
+      "maillogginse",
+      "mailloggingse"
+    ],
+    "target_title": "Auktoriserad bilverkstad i Tyresö, Stockholm | Trygg Bil",
+    "target_meta": "Trygg Bil är en bilverkstad i Tyresö, Stockholm som hjälper med service, reparation, bilglas & däck till din Volkswagen, ŠKODA, SEAT & CUPRA.",
+    "bridge_distance": 0.11388678103685379,
+    "bridge_category": "unrelated",
+    "trust_link_topics": [
+      "maillogginse",
+      "mailloggingse",
+      "statistik",
+      "forskning"
+    ],
+    "language": "en"
+  },
+  {
+    "job_number": 15,
+    "publisher_domain": "serviceteknikerkarlstad.se",
+    "target_url": "https://tryggbil.se/",
+    "anchor_text": "bilverkstad",
+    "publisher_topics": [
+      "teknik",
+      "it",
+      "servicetekniker",
+      "karlstad"
+    ],
+    "target_title": "Auktoriserad bilverkstad i Tyresö, Stockholm | Trygg Bil",
+    "target_meta": "Trygg Bil är en bilverkstad i Tyresö, Stockholm som hjälper med service, reparation, bilglas & däck till din Volkswagen, ŠKODA, SEAT & CUPRA.",
+    "bridge_distance": 0.5427668690681458,
+    "bridge_category": "moderate",
+    "trust_link_topics": [
+      "teknik",
+      "it",
+      "servicetekniker",
+      "statistik",
+      "forskning"
+    ],
+    "language": "en"
+  },
+  {
+    "job_number": 16,
+    "publisher_domain": "hot-maillogginse.se",
+    "target_url": "https://sesec.se/",
+    "anchor_text": "Ordningsvakt",
+    "publisher_topics": [
+      "maillogginse",
+      "mailloggingse"
+    ],
+    "target_title": "SESEC Security – Bevakning, ordningsvakter & säkerhet",
+    "target_meta": "SESEC Security erbjuder bevakning, ordningsvakter, skyddsvakter och parkeringsövervakning. Kontakta oss för en trygg och professionell lösning.",
+    "bridge_distance": 0.12458904087543488,
+    "bridge_category": "unrelated",
+    "trust_link_topics": [
+      "maillogginse",
+      "mailloggingse",
+      "statistik",
+      "forskning"
+    ],
+    "language": "en"
+  },
+  {
+    "job_number": 17,
+    "publisher_domain": "tygpyssling.se",
+    "target_url": "https://www.lilla-varlden.se/",
+    "anchor_text": "barnbutik",
+    "publisher_topics": [
+      "tygpyssling"
+    ],
+    "target_title": "Babybutik & Barnbutik Online – Allt för dig och ditt barn",
+    "target_meta": "Upptäck vår barn- och babybutik online med utvalda produkter för bebisar, småbarn och föräldrar. Fri frakt, snabb leverans och trygg betalning med Klarna.",
+    "bridge_distance": 0.0865442305803299,
+    "bridge_category": "unrelated",
+    "trust_link_topics": [
+      "tygpyssling",
+      "statistik",
+      "forskning"
+    ],
+    "language": "en"
+  },
+  {
+    "job_number": 18,
+    "publisher_domain": "healthyliving.se",
+    "target_url": "https://tandea.se/tandvard/akut-tandvard-stockholm/",
+    "anchor_text": "Akut tandvård i Stockholm",
+    "publisher_topics": [
+      "healthyliving",
+      "hälsosam",
+      "livsstil"
+    ],
+    "target_title": "Akut tandvård Stockholm | Boka tandläkare akut | Tandea",
+    "target_meta": "Akut tandvård i Stockholm? Våra erfarna tandläkare hos Tandea är här för att ge dig snabb hjälp vid akuta tandbesvär.",
+    "bridge_distance": 0.10637842863798141,
+    "bridge_category": "unrelated",
+    "trust_link_topics": [
+      "healthyliving",
+      "hälsosam",
+      "livsstil",
+      "statistik",
+      "forskning"
+    ],
+    "language": "en"
+  },
+  {
+    "job_number": 19,
+    "publisher_domain": "houseofpadel.se",
+    "target_url": "https://sahlstenskincare.se/",
+    "anchor_text": "Sahlstenskincare",
+    "publisher_topics": [
+      "houseofpadel"
+    ],
+    "target_title": "Hudvård stockholm - Dermapen, Kemisk Peeling & Microneedling Södermalm",
+    "target_meta": "Hos Sahlstén Skin Care Clinic får du en professionell hud- och kroppsvård med huden i fokus för en förbättrad friskare hud. Kemisk peeling.",
+    "bridge_distance": 0.06976403295993805,
+    "bridge_category": "unrelated",
+    "trust_link_topics": [
+      "houseofpadel",
+      "statistik",
+      "forskning"
+    ],
+    "language": "en"
+  },
+  {
+    "job_number": 20,
+    "publisher_domain": "firmify.se",
+    "target_url": "https://finns.se/foretagstjanster/kontorsstadning/",
+    "anchor_text": "Kontorsstädning Göteborg",
+    "publisher_topics": [
+      "firmify"
+    ],
+    "target_title": "FINNS | Kontorsstädning i Göteborg – För en Ren Arbetsplats",
+    "target_meta": "Professionell kontorsstädning i Göteborg för en fräsch och trivsam arbetsmiljö. Anpassade lösningar för ditt företag. Boka ett kostnadsfritt möte med oss idag!",
+    "bridge_distance": 0.1766725480556488,
+    "bridge_category": "unrelated",
+    "trust_link_topics": [
+      "firmify",
+      "statistik",
+      "forskning"
+    ],
+    "language": "sv"
+  },
+  {
+    "job_number": 21,
+    "publisher_domain": "1direct.se",
+    "target_url": "https://www.indoorprofessional.se/",
+    "anchor_text": "lokalvård stockholm",
+    "publisher_topics": [
+      "direct"
+    ],
+    "target_title": "Städfirma för företag i Stockholm – Indoor Professional",
+    "target_meta": "Städfirma med brett utbud av städtjänster i Stockholm. På Indoor Professionals har vi 60 års erfarenhet av städserivce och lokalvård för företag & verksamhet.",
+    "bridge_distance": 0.2264023870229721,
+    "bridge_category": "unrelated",
+    "trust_link_topics": [
+      "direct",
+      "statistik",
+      "forskning"
+    ],
+    "language": "sv"
+  },
+  {
+    "job_number": 22,
+    "publisher_domain": "saralundberg.se",
+    "target_url": "https://www.indoorprofessional.se/",
+    "anchor_text": "lokalvård stockholm",
+    "publisher_topics": [
+      "saralundberg"
+    ],
+    "target_title": "Städfirma för företag i Stockholm – Indoor Professional",
+    "target_meta": "Städfirma med brett utbud av städtjänster i Stockholm. På Indoor Professionals har vi 60 års erfarenhet av städserivce och lokalvård för företag & verksamhet.",
+    "bridge_distance": 0.2856942415237427,
+    "bridge_category": "unrelated",
+    "trust_link_topics": [
+      "saralundberg",
+      "statistik",
+      "forskning"
+    ],
+    "language": "en"
+  },
+  {
+    "job_number": 23,
+    "publisher_domain": "14karat.se",
+    "target_url": "https://standupsverige.se",
+    "anchor_text": "stand up stockholm",
+    "publisher_topics": [
+      "karat"
+    ],
+    "target_title": "StandUp Sverige – Din ultimata destination för allt inom standup",
+    "target_meta": "StandUp Sverige – Din ultimata guide till standup comedy i Sverige! Upptäck komiker, standup-klubbar och aktuella shower i Stockholm, Göteborg och hela landet. Boka biljetter och njut av en kväll fylld av skratt!",
+    "bridge_distance": 0.024330327287316322,
+    "bridge_category": "unrelated",
+    "trust_link_topics": [
+      "karat",
+      "statistik",
+      "forskning"
+    ],
+    "language": "en"
+  },
+  {
+    "job_number": 24,
+    "publisher_domain": "hot-maillogginse.se",
+    "target_url": "https://xn--sveafrskring-mcb3w.se/",
+    "anchor_text": "svea försäkring",
+    "publisher_topics": [
+      "maillogginse",
+      "mailloggingse"
+    ],
+    "target_title": "Jämför försäkringar » Alla försäkringsbolag - Svea Forsakring",
+    "target_meta": "Sveaförsäkring hjälper dig jämföra försäkringar & hitta det bästa försäkringen för dig » Teckna en försäkring som passar dig bäst direkt hos försäkringsbolaget.",
+    "bridge_distance": 0.0,
+    "bridge_category": "unrelated",
+    "trust_link_topics": [
+      "maillogginse",
+      "mailloggingse",
+      "statistik",
+      "forskning"
+    ],
+    "language": "en"
+  },
+  {
+    "job_number": 25,
+    "publisher_domain": "secworks.se",
+    "target_url": "https://floristerisverige.se/",
+    "anchor_text": "blombud",
+    "publisher_topics": [
+      "secworks"
+    ],
+    "target_title": "Skicka blommor | Florister i Sverige",
+    "target_meta": "Hos Florister i Sverige beställer du ditt blombud direkt av den lokala blomsterbutiken, närmast den ort dit du vill skicka blommor till. Vi har samlat florister och blomsterbutiker runt om i Sverige under ett och samma tak.",
+    "bridge_distance": 0.05476900562644005,
+    "bridge_category": "unrelated",
+    "trust_link_topics": [
+      "secworks",
+      "statistik",
+      "forskning"
+    ],
+    "language": "en"
+  },
+  {
+    "job_number": 26,
+    "publisher_domain": "svalan.se",
+    "target_url": "https://floristerisverige.se/begravningsblommor/",
+    "anchor_text": "begravningsblommor",
+    "publisher_topics": [
+      "svalan"
+    ],
+    "target_title": "Begravningsblommor - skicka blommor till begravning",
+    "target_meta": "Med begravningsblommor får vi något att fokusera på då sorgen känns för tung. Då du vill skicka blommor till begravning kan det vara klokt att välja en krans.",
+    "bridge_distance": 0.0,
+    "bridge_category": "unrelated",
+    "trust_link_topics": [
+      "svalan",
+      "statistik",
+      "forskning"
+    ],
+    "language": "en"
+  },
+  {
+    "job_number": 27,
+    "publisher_domain": "stockholmextra.se",
+    "target_url": "https://www.michaelofrisorerna.se/",
+    "anchor_text": "Frisör på södermalm",
+    "publisher_topics": [
+      "stockholmextra",
+      "stockholm",
+      "extra",
+      "lokala",
+      "evenemang",
+      "guider"
+    ],
+    "target_title": "Frisör Södermalm | Boka tid idag | Michael & Frisörerna",
+    "target_meta": "Din frisörsalong i Stockholm - Alltid personlig service och kunden i fokus – Vi finns på Södermalm - Boka tid hos oss redan idag!",
+    "bridge_distance": 0.30672141909599304,
+    "bridge_category": "distant",
+    "trust_link_topics": [
+      "stockholmextra",
+      "stockholm",
+      "extra",
+      "statistik",
+      "forskning"
+    ],
+    "language": "sv"
+  },
+  {
+    "job_number": 28,
+    "publisher_domain": "healthyliving.se",
+    "target_url": "https://www.michaelofrisorerna.se/",
+    "anchor_text": "Frisör på södermalm",
+    "publisher_topics": [
+      "healthyliving",
+      "hälsosam",
+      "livsstil"
+    ],
+    "target_title": "Frisör Södermalm | Boka tid idag | Michael & Frisörerna",
+    "target_meta": "Din frisörsalong i Stockholm - Alltid personlig service och kunden i fokus – Vi finns på Södermalm - Boka tid hos oss redan idag!",
+    "bridge_distance": 0.16658824682235718,
+    "bridge_category": "unrelated",
+    "trust_link_topics": [
+      "healthyliving",
+      "hälsosam",
+      "livsstil",
+      "statistik",
+      "forskning"
+    ],
+    "language": "en"
+  },
+  {
+    "job_number": 29,
+    "publisher_domain": "keynote.se",
+    "target_url": "https://tkw.se/",
+    "anchor_text": "akustik",
+    "publisher_topics": [
+      "keynote"
+    ],
+    "target_title": "TKW Akustik - undertak, ljudabsorbenter, akustikpaneler i Stockholm",
+    "target_meta": "TKW är proffs på undertak och akustik. Vi monterar och säljer undertak, ljudabsorbenter och akustikprodukter - allt från enstaka produkter till hela projekt!",
+    "bridge_distance": 0.0943295806646347,
+    "bridge_category": "unrelated",
+    "trust_link_topics": [
+      "keynote",
+      "statistik",
+      "forskning"
+    ],
+    "language": "en"
+  },
+  {
+    "job_number": 30,
+    "publisher_domain": "secworks.se",
+    "target_url": "https://tkw.se/",
+    "anchor_text": "akustik",
+    "publisher_topics": [
+      "secworks"
+    ],
+    "target_title": "TKW Akustik - undertak, ljudabsorbenter, akustikpaneler i Stockholm",
+    "target_meta": "TKW är proffs på undertak och akustik. Vi monterar och säljer undertak, ljudabsorbenter och akustikprodukter - allt från enstaka produkter till hela projekt!",
+    "bridge_distance": 0.1998721808195114,
+    "bridge_category": "unrelated",
+    "trust_link_topics": [
+      "secworks",
+      "statistik",
+      "forskning"
+    ],
+    "language": "en"
+  },
+  {
+    "job_number": 31,
+    "publisher_domain": "secworks.se",
+    "target_url": "https://www.birgerbostad.se/hitta-bostad/kopa-agarlagenhet/",
+    "anchor_text": "ägarlägenhet",
+    "publisher_topics": [
+      "secworks"
+    ],
+    "target_title": "Ägarlägenhet - Att köpa ägarlägenhet av oss | Birger Bostad",
+    "target_meta": "Att bo i en ägarlägenhet innebär ett ökat självbestämmande eftersom du själv äger lägenheten fullt ut och söker lagfart enligt samma regler som för andra typer av fastigheter. Varje ägarlägenhet räknas som en egen fastighet och betraktas som fast egendom, precis som en villa. \n\n",
+    "bridge_distance": 0.1796092838048935,
+    "bridge_category": "unrelated",
+    "trust_link_topics": [
+      "secworks",
+      "statistik",
+      "forskning"
+    ],
+    "language": "en"
+  },
+  {
+    "job_number": 32,
+    "publisher_domain": "jetshopfree.se",
+    "target_url": "https://www.birgerbostad.se/hitta-bostad/hitta-bostad/solna/albertina---agarlagenheter/",
+    "anchor_text": "äganderätt lägenhet",
+    "publisher_topics": [
+      "jetshopfree"
+    ],
+    "target_title": "Albertina - Ägarlägenheter i Haga Norra | Birger Bostad",
+    "target_meta": "Upptäck Albertina – ägarlägenheter i Haga Norra, Solna. Välj mellan 1–5 rok med hög standard och generös takhöjd. Nära Hagaparken och city.",
+    "bridge_distance": 0.13448494672775269,
+    "bridge_category": "unrelated",
+    "trust_link_topics": [
+      "jetshopfree",
+      "statistik",
+      "forskning"
+    ],
+    "language": "en"
+  }
+]
